@@ -1,0 +1,23 @@
+{
+  "name": "es6-skills",
+  "version": "1.0.0",
+  "description": "Exercises for the HackersGuild Bootcamp ",
+  "main": "01-string-interpolation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackersguild/js-test.git"
+  },
+  "author": "Olivier JM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hackersguild/js-test/issues"
+  },
+  "homepage": "https://github.com/hackersguild/js-test#readme",
+  "devDependencies": {
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.10.0"
+  }
+}
